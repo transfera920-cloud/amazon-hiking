@@ -1,0 +1,8 @@
+{
+  "name": "亞馬遜國家山岳協會",
+  "description": "亞馬遜國家山岳協會（Amazon Alpine Association）官方網站 - 提倡全民運動、鍛鍊強健體魄、培養互助團隊精神，以及接觸大自然與教育山林相關知識及技能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
